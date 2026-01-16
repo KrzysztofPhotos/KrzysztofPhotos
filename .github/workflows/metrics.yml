@@ -28,7 +28,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: Krzychu49346
+          user: KrzysztofPhotos
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Warsaw
